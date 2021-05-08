@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheAshpak
+- 👀 I’m interested in AI , Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :- Theashpak@gmail.com

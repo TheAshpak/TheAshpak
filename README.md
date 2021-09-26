@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheAshpak
+- 👋 Hi, I’m Ashpak Sheikh
 - 👀 Interested in AI , Data Science and Machine Learning
-- 🌱 currently learning Data Science and Machine Learning
+- 🌱 currently learning Data Science, Machine Learning and Deep Learning
 - 📫 How to reach me :- Theashpak@gmail.com

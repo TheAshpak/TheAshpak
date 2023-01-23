@@ -1,3 +1,7 @@
 - 👋 Hi, I’m Ashpak Sheikh
 - 👀 Interested in AI , Data Science and Machine Learning and Deep Learning
+- Having 1.6 years of total experiance in DS domain
+- Working as a Data Analyst @Uber EXT
+- Searching For new jon opportunity in the same DS doamain
+- Thank You :)
 - 📫 How to reach me :- Theashpak@gmail.com
